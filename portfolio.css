@@ -140,7 +140,7 @@ html, body {
     justify-content: center;
     align-items:center;
     padding-top:5rem;
-	padding-bottom:4rem;
+	padding-bottom:8rem;
     background-color: #F0F8FF;
 }
 
@@ -238,12 +238,12 @@ html, body {
     padding-bottom: 1rem;
 }
 
-.home .home-container .btn button a{
+.home .home-container .btn a button{
     color:#fff;
     text-wrap: nowrap;
 }
 
-.home .home-container .btn button:hover{
+.home .home-container .btn a button :hover{
     background-color:#1f242d;
     border-color: #1f242d;
     transform:scale(1.1);
