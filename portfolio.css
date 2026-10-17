@@ -238,9 +238,14 @@ html, body {
     padding-bottom: 1rem;
 }
 
-.home .home-container .btn a button{
+.home .home-container .btn a{
     color:#fff;
     text-wrap: nowrap;
+}
+.home .home-container .btn a button{
+	background-color:#323946;
+    border-color: #323946;
+	transition: 0.3s ease-out;
 }
 
 .home .home-container .btn a button :hover{
