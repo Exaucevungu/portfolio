@@ -139,8 +139,8 @@ html, body {
     display:flex;
     justify-content: center;
     align-items:center;
-    padding-top:5rem;
-	padding-bottom:8rem;
+    padding-top:7rem;
+	padding-bottom:10rem;
     background-color: #F0F8FF;
 }
 
@@ -245,10 +245,11 @@ html, body {
 .home .home-container .btn a button{
 	background-color:#323946;
     border-color: #323946;
+	color:#fff;
 	transition: 0.3s ease-out;
 }
 
-.home .home-container .btn a button :hover{
+.home .home-container .btn a button:hover{
     background-color:#1f242d;
     border-color: #1f242d;
     transform:scale(1.1);
@@ -261,8 +262,8 @@ html, body {
     display:flex;
     justify-content: center;
     align-items: center;
-    padding-top:7rem;
-    padding-bottom: 6rem;
+    padding-top:10rem;
+    padding-bottom: 9rem;
     overflow-wrap: break-word;
     background-color: white;
 
